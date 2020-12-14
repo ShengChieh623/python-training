@@ -1,0 +1,35 @@
+<div class="title_banner about rellax" data-rellax-zindex="1" style="background-image: url('/public/UserFiles/upload/site/brand_bg.png');"><div class="container">
+<div class="banner_text text-right">&nbsp;</div>
+</div>
+</div>
+
+<section class="port_item">
+<div class="container-fluid  p-0">
+<div class="col-lg-4 p-0">
+<div class="port_main_pic rellax" data-rellax-zindex="1"><img src="/public/UserFiles/upload/upload/7-FCS-logo.png" /></div>
+</div>
+
+<div class="col-lg-8 p-0">
+<div class="port_text">
+<h1 class="port_title" style="color: #333333;">愛瑪瑞實業股份有限公司</h1>
+
+<div class="port_propose">
+<div class="port_topic" style="background-color: #002b64;">公司簡介</div>
+
+<ul>
+    <li>None</li>
+</ul>
+
+<div class="p-0 port_propose">
+<div class="port_topic" style="background-color: #002b64;">相關專案連結</div>
+
+<ul>
+    <li><a href="https://www.104.com.tw/company/amwy1co" target="_blank">品牌官網</a></li>
+
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>

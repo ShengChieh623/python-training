@@ -1,0 +1,35 @@
+<div class="title_banner about rellax" data-rellax-zindex="1" style="background-image: url('/public/UserFiles/upload/site/brand_bg.png');"><div class="container">
+<div class="banner_text text-right">&nbsp;</div>
+</div>
+</div>
+
+<section class="port_item">
+<div class="container-fluid  p-0">
+<div class="col-lg-4 p-0">
+<div class="port_main_pic rellax" data-rellax-zindex="1"><img src="/public/UserFiles/upload/upload/7-FCS-logo.png" /></div>
+</div>
+
+<div class="col-lg-8 p-0">
+<div class="port_text">
+<h1 class="port_title" style="color: #333333;">大化實業股份有限公司</h1>
+
+<div class="port_propose">
+<div class="port_topic" style="background-color: #002b64;">公司簡介</div>
+
+<ul>
+    <li>大化高分子材料公司從臺灣總公司派入一批資深專業技術人員, 及優秀的管理人員，選用國際最先進的生產設備和工藝,。本公司秉誠“求實創新、服務社會”的企業宗旨，致力於色母粒和功能母粒的研發和生產，平均年產量將達到百萬噸以上. “首先賣信譽，其次賣產品，把使用者的煩惱降為零！”是大化高分子材料公司對核心價值觀“負責”最完美的詮釋。</li>
+</ul>
+
+<div class="p-0 port_propose">
+<div class="port_topic" style="background-color: #002b64;">相關專案連結</div>
+
+<ul>
+    <li><a href="https://taiwan.prm-taiwan.com/com/ta-haw.html" target="_blank">品牌官網</a></li>
+
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>

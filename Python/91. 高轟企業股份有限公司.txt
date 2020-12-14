@@ -1,0 +1,35 @@
+<div class="title_banner about rellax" data-rellax-zindex="1" style="background-image: url('/public/UserFiles/upload/site/brand_bg.png');"><div class="container">
+<div class="banner_text text-right">&nbsp;</div>
+</div>
+</div>
+
+<section class="port_item">
+<div class="container-fluid  p-0">
+<div class="col-lg-4 p-0">
+<div class="port_main_pic rellax" data-rellax-zindex="1"><img src="/public/UserFiles/upload/upload/7-FCS-logo.png" /></div>
+</div>
+
+<div class="col-lg-8 p-0">
+<div class="port_text">
+<h1 class="port_title" style="color: #333333;">高轟企業股份有限公司</h1>
+
+<div class="port_propose">
+<div class="port_topic" style="background-color: #002b64;">公司簡介</div>
+
+<ul>
+    <li>高轟企業股份有限公司｜經營理念 ：鋼鐵業被稱為工業之母或可稱為工業的糧食工業，是一種資本與技術密集的產業，本公司歷經景氣興衰，有豐富的經驗以及堅強的經營團隊，員工福利相當優渥，歡迎有熱誠、負責的業內專業人才，加入我們的行列。｜想找高轟企業股份有限公司更多工作職缺，請上1111人力銀行搜尋：高轟企業股份有限公司,高轟企業股份有限公司職缺,高轟企業股份有限公司工作,高轟企業股份有限公司徵才,高轟企業股份有限公司招募,高轟企業股份有限公司徵人。</li>
+</ul>
+
+<div class="p-0 port_propose">
+<div class="port_topic" style="background-color: #002b64;">相關專案連結</div>
+
+<ul>
+    <li><a href="https://www.1111.com.tw/corp/329428/" target="_blank">品牌官網</a></li>
+
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
